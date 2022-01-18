@@ -1,3 +1,3 @@
 #import files or functions from first file.
-from first import test
+from first import House
 
